@@ -51,7 +51,7 @@ Cada sala de mob contém um grupo de inimigos que contém os seguinte modificado
 
 - __Curse:__ Os jogadorse atacados por inimigos com esse modificador tem as curas recebidas reduzidas.
 
-__- Death Talk:__ Quando esses inimigos morrem um grande buff é dado aos monstros em volta. Esse modificador foi enfraquecido em um patch anterior, mas pode ser ainda bastante mortal.
+- __Death Talk:__ Quando esses inimigos morrem um grande buff é dado aos monstros em volta. Esse modificador foi enfraquecido em um patch anterior, mas pode ser ainda bastante mortal.
 
 - __Eagle Eye:__ Aumenta o hit rate de todos inimigos em volta em 100%.
 
@@ -93,7 +93,7 @@ __- Death Talk:__ Quando esses inimigos morrem um grande buff é dado aos monstr
 
 ## Itens
 Os jogadores não podem utilizar itens de sua bolsas individuais, entretanto, o corredor fornece itens para serem comprados no Secret Shop ou quando os jogadores vencem salas também existe uma probabilidade um item.  À seguir seguem os itens mais relevantes:
-#### Consumíveis:
+#### __Consumíveis:
 ![[Pasted image 20230909161001.png]]
 __Broaden Horizon (50 moedas):__ Revela o mapa do andar atual. Muito útil nos andares finais para acelerar a movimentação dos jogadores no corredor ou para localizar pontos de interesse como a loja ou ainda a sala do tarot.
 
@@ -104,7 +104,7 @@ __Soul Crystal (25 moedas):__ Revive um aliado caído e é automaticamente consu
 
 ![[Pasted image 20230909164741.png]] 
 __Sublimation - Valkyrie (300 moedas):__ Transforma o utilizador na Valkyria por 20 segundos que utiliza um ataque tem seu dano aumentado sucessivamente que dá um dano massivo. Muito utilizada para acelerar ou ainda matar MVPs dificeis.
-#### Fixos:
+#### __Fixos:__
 __Arcane Codex (200 moedas):__ Reduz o skill delay e o delay em 10% para cada adicional aumenta em outros 10% chegando ao máximo de 50% no level 5. É um ótimo investimento e possibilita estratégias que não seriam possíveis fora do corredor como White Barrier ou ainda Faith Pray infinito.
 
 __Magic Barrage (200 moedas):__ Dá 0.2s stun para cada dano dado por jogadores à inimigos, para cada upgrade aumenta o tempo de stun em 0.2, totalizando ao máximo 1s no level 5. É um dos itens mais interessantes ao ser combinado com jogadores que deem dano em área, possibilidando que esses jogadores limpem salas de monstros de forma segura. Se combinado com o Arcane Codex, algumas classes conseguem até mesmo parar o movimento de inimigos totalmente.
@@ -114,7 +114,6 @@ __Ultimate Gloves (200 moedas):__ Dobra o dano do próximo ataque a cada 15 segu
 
 ![[Pasted image 20230909163446.png]]
 __Surprise Giftbox (200 moedas):__ Aumenta a quantidade de items apresentados e pode ser empilhado até 3 vezes. Muito útil para aumentar a probabilidade dos items desejados aparecerem para compras.
-
 
 ## Composição e Estratégia
 Num primeiro momento é o mais importante nesse momento é entender o que seu personagem faz e pode fazer (role). Compreendendo os pontos fortes e fracos do seu personagem.
@@ -129,7 +128,7 @@ Pense no quanto/como ele pode oferecer :
 Após entender como o seu personagem pode performar dentro dessa instância fica mais fácil desenvolver uma estratégia.
 
 ## Links relevantes:
-[Mallinox Guide : Echoing Corridor (Global, 2.0)](https://docs.google.com/document/d/1HT36Tv2odII2MbrtAYYFW0CY7G-I7pKJmbMZGyOmTyw/edit#heading=h.f1mfx5swxgc6)
-[InDepthGuide : Echoing Corridor Guide](https://sites.google.com/view/romindepthguide/instances/echoing-corridor?authuser=0)
+- [Mallinox Guide : Echoing Corridor (Global, 2.0)](https://docs.google.com/document/d/1HT36Tv2odII2MbrtAYYFW0CY7G-I7pKJmbMZGyOmTyw/edit#heading=h.f1mfx5swxgc6)
+- [InDepthGuide : Echoing Corridor Guide](https://sites.google.com/view/romindepthguide/instances/echoing-corridor?authuser=0)
 
 #Semanais #Instancias #InstanciaSemanal #EchoingCorridor #Corredor #PVE

@@ -81,12 +81,39 @@ __- Death Talk:__ Quando esses inimigos morrem um grande buff é dado aos monstr
 
 - __Standing Fast:__ Esses inimigos contem uma aura que irá proteger todos os outros inimigos de efeitos de crowd control.
 
-- Stare: If the monster gets close to you they put a debuff on you with a countdown.  If this countdown hits zero it instantly kills you.  Also, each mob takes 1 damage from the first 10 sources of damage.
-- Symbiosis: 3 monsters will launch a combined attack on a random player.  If any symbiosis mobs are alive 5 seconds after death they will revive themselves.
-- Thorns: Every time the monster takes damage there is a chance it will stun you
-- Void: Players within range cannot use skills or items
-- Weakening: Auto attacks prevent you from attacking or using skills.  
-	- This cannot be resisted or ignored with a Munak card, extremely dangerous when solo!
+- __Stare:__ Se o monstro chegar perto de um jogador ele colocará um debuff que inicia um contador decrescente, se esse contador chegar à zero, o jogador morrerá instantaneamente. Esse inimigo também tem um escudo que reduz os primeiros 10 hits tomados para 1.
+
+- __Symbiosis:__ Os 3 inimigos irão combinar o ataque em um jogador aleatório. Se qualquer inimigo com esse modificador estiver vivo após 5 segundos depois de sua morte, ele reviverá.
+
+- __Thorns:__ Cada vez que esse inimigo receber dano, existe uma chance dele stunar o jogador.
+
+- __Void:__ Os jogadores próximos não poderão utilizar habilidades ou items.
+
+- __Weakening:__ Os auto ataques desses inimigos previnem que os jogadores ataquem ou utilizem skills! Esse debuff é forçado e não pode ser resistido tornando esse um dos inimigos mais perigosos. 
+
+## Itens
+Os jogadores não podem utilizar itens de sua bolsas individuais, entretanto, o corredor fornece itens para serem comprados no Secret Shop ou quando os jogadores vencem salas também existe uma probabilidade um item.  À seguir seguem os itens mais relevantes:
+#### Consumíveis:
+![[Pasted image 20230909161001.png]]
+__Broaden Horizon (50 moedas):__ Revela o mapa do andar atual. Muito útil nos andares finais para acelerar a movimentação dos jogadores no corredor ou para localizar pontos de interesse como a loja ou ainda a sala do tarot.
+
+![[Pasted image 20230909161220.png]]
+__Osteoacusis Chip (50 moedas):__ Ao ser utilizado os jogadores são teleportados para a sala de descanso. Muito utilizado para evitar salas de MVPs e fugir de situações desfavoraveis.
+
+__Soul Crystal (25 moedas):__ Revive um aliado caído e é automaticamente consumida quando  o último jogador vivo é morto. Muito útil em composições que não tenham algum jogador que possa reviver, também é muito útil para prevenir que o time perca.
+
+![[Pasted image 20230909164741.png]] 
+__Sublimation - Valkyrie (300 moedas):__ Transforma o utilizador na Valkyria por 20 segundos que utiliza um ataque tem seu dano aumentado sucessivamente que dá um dano massivo. Muito utilizada para acelerar ou ainda matar MVPs dificeis.
+#### Fixos:
+__Arcane Codex (200 moedas):__ Reduz o skill delay e o delay em 10% para cada adicional aumenta em outros 10% chegando ao máximo de 50% no level 5. É um ótimo investimento e possibilita estratégias que não seriam possíveis fora do corredor como White Barrier ou ainda Faith Pray infinito.
+
+__Magic Barrage (200 moedas):__ Dá 0.2s stun para cada dano dado por jogadores à inimigos, para cada upgrade aumenta o tempo de stun em 0.2, totalizando ao máximo 1s no level 5. É um dos itens mais interessantes ao ser combinado com jogadores que deem dano em área, possibilidando que esses jogadores limpem salas de monstros de forma segura. Se combinado com o Arcane Codex, algumas classes conseguem até mesmo parar o movimento de inimigos totalmente.
+
+![[Pasted image 20230909163950.png]]
+__Ultimate Gloves (200 moedas):__ Dobra o dano do próximo ataque a cada 15 segundos. Cada par adicional de luvas reduz o delay do efeito em 1 segundo. Combinando  10 luvas é possível reduzir o efeito para apenas 5 segundos de delay. A minha dica aqui é a utilização desse item para composições com bastante burst damage único.
+
+![[Pasted image 20230909163446.png]]
+__Surprise Giftbox (200 moedas):__ Aumenta a quantidade de items apresentados e pode ser empilhado até 3 vezes. Muito útil para aumentar a probabilidade dos items desejados aparecerem para compras.
 
 
 ## Composição e Estratégia

@@ -54,4 +54,4 @@ Após entender como o seu personagem pode performar dentro dessa instância fica
 [Mallinox Guide : Echoing Corridor (Global, 2.0)](https://docs.google.com/document/d/1HT36Tv2odII2MbrtAYYFW0CY7G-I7pKJmbMZGyOmTyw/edit#heading=h.f1mfx5swxgc6)
 [InDepthGuide : Echoing Corridor Guide](https://sites.google.com/view/romindepthguide/instances/echoing-corridor?authuser=0)
 
-#Semanais #Instancias #InstanciaSemanal #EchoingCorridor #Corredor
+#Semanais #Instancias #InstanciaSemanal #EchoingCorridor #Corredor #PVE

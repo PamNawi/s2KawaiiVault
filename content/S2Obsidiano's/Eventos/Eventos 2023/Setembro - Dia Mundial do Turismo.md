@@ -26,10 +26,10 @@ Cada pacote contém:
 - A localização exata deve ser identificável na foto. Se não for possível identificar onde a foto foi tirada, ela não será aceita.
 
 # Postagem de Pré-hype
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pEo9ue2YlVM?si=yGDb3zuPlisKR5Gq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Postagem do Evento
-
+! Esperando a gravação
 
 ### Vencedores:
 1ª Rodada : 

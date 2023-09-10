@@ -1,7 +1,6 @@
 ---
 dg-publish: false
 ---
-
 É uma instância semanal que quando completada pela primeira vez dá muitos prêmios, além de semanalmente dar moedas que podem ser trocadas por Runas S Star.  Preste atenção que no último episódio o corredor recebeu uma expansão e agora vai do 0 - 70, além das duas novas dificuldades: Warrior e Elite.
 
 [Premiação do corredor 0 - 60 (Primeira vez)](https://docs.google.com/spreadsheets/d/1JFcM5LT3W70qh0g91O9d_3J27dvaShHH5xbNN0KsSCc/edit?usp=sharing)
@@ -93,30 +92,38 @@ Cada sala de mob contém um grupo de inimigos que contém os seguinte modificado
 
 ## Itens
 Os jogadores não podem utilizar itens de sua bolsas individuais, entretanto, o corredor fornece itens para serem comprados no Secret Shop ou quando os jogadores vencem salas também existe uma probabilidade um item.  À seguir seguem os itens mais relevantes:
-#### __Consumíveis:
-![[Pasted image 20230909161001.png]]
+#### __-> Consumíveis:__
+
+![[Pasted image 20230909235944.png]]
+__Holy Bottle (Recarga na sala do Descanso em todos os andares):__ Recupera 30% do HP e 30% do SP imediatamente. Pode ser recarregado na fonte presente no centro da sala de descanso de todos os andares uma vez por andar.
+
+![[Pasted image 20230910000000.png]]
 __Broaden Horizon (50 moedas):__ Revela o mapa do andar atual. Muito útil nos andares finais para acelerar a movimentação dos jogadores no corredor ou para localizar pontos de interesse como a loja ou ainda a sala do tarot.
 
-![[Pasted image 20230909161220.png]]
+![[Pasted image 20230910000020.png]]
 __Osteoacusis Chip (50 moedas):__ Ao ser utilizado os jogadores são teleportados para a sala de descanso. Muito utilizado para evitar salas de MVPs e fugir de situações desfavoraveis.
 
+![[Pasted image 20230910000041.png]]
 __Soul Crystal (25 moedas):__ Revive um aliado caído e é automaticamente consumida quando  o último jogador vivo é morto. Muito útil em composições que não tenham algum jogador que possa reviver, também é muito útil para prevenir que o time perca.
 
-![[Pasted image 20230909164741.png]] 
+![[Pasted image 20230910000100.png]] 
 __Sublimation - Valkyrie (300 moedas):__ Transforma o utilizador na Valkyria por 20 segundos que utiliza um ataque tem seu dano aumentado sucessivamente que dá um dano massivo. Muito utilizada para acelerar ou ainda matar MVPs dificeis.
-#### __Fixos:__
+#### __-> Fixos:__
+
+![[Pasted image 20230910000117.png]]
 __Arcane Codex (200 moedas):__ Reduz o skill delay e o delay em 10% para cada adicional aumenta em outros 10% chegando ao máximo de 50% no level 5. É um ótimo investimento e possibilita estratégias que não seriam possíveis fora do corredor como White Barrier ou ainda Faith Pray infinito.
 
+![[Pasted image 20230910000138.png]]
 __Magic Barrage (200 moedas):__ Dá 0.2s stun para cada dano dado por jogadores à inimigos, para cada upgrade aumenta o tempo de stun em 0.2, totalizando ao máximo 1s no level 5. É um dos itens mais interessantes ao ser combinado com jogadores que deem dano em área, possibilidando que esses jogadores limpem salas de monstros de forma segura. Se combinado com o Arcane Codex, algumas classes conseguem até mesmo parar o movimento de inimigos totalmente.
 
-![[Pasted image 20230909163950.png]]
+![[Pasted image 20230910000153.png]]
 __Ultimate Gloves (200 moedas):__ Dobra o dano do próximo ataque a cada 15 segundos. Cada par adicional de luvas reduz o delay do efeito em 1 segundo. Combinando  10 luvas é possível reduzir o efeito para apenas 5 segundos de delay. A minha dica aqui é a utilização desse item para composições com bastante burst damage único.
 
-![[Pasted image 20230909163446.png]]
+![[Pasted image 20230910000207.png]]
 __Surprise Giftbox (200 moedas):__ Aumenta a quantidade de items apresentados e pode ser empilhado até 3 vezes. Muito útil para aumentar a probabilidade dos items desejados aparecerem para compras.
 
 ## Composição e Estratégia
-Num primeiro momento é o mais importante nesse momento é entender o que seu personagem faz e pode fazer (role). Compreendendo os pontos fortes e fracos do seu personagem.
+Num primeiro momento é o mais importante nesse momento é entender o que seu personagem faz e pode fazer (role). Compreendendo os pontos fortes e fracos do seu personagem fica mais fácil de entender como você deverá se comportar dentro da instância..
 
 Pense no quanto/como ele pode oferecer :
 
@@ -125,10 +132,25 @@ Pense no quanto/como ele pode oferecer :
 - DPS single-target (podendo ser burst damage ou damage per second)
 - DSP multi-target
 
-Após entender como o seu personagem pode performar dentro dessa instância fica mais fácil desenvolver uma estratégia.
+Após entender como o seu personagem pode performar dentro dessa instância fica mais fácil desenvolver uma estratégia. O Corredor é uma instância curiosa já que permite diversas estratégias muito diferentes, mas irei abordar algumas dicas e estratégias comuns para faze-la com facilidade.
+
+- __Dica 1:__ Procure o mais rápido possível uma das seguintes salas dependendo de quão confortável está sua navegação entre as salas: 
+	- Secret Shop se você prefere comprar os itens para fazer a instância, mas pode ficar sem mapa para aberto no inicio ou no fim.
+	- Tarot se você não precisa dos items, mas quer garantir o famoso mapa eterno. Essa estratégia é comum com jogadores mais experientes.
+
+É possível também que você não encontre nenhuma das duas salas e simplesmente passe para o próximo andar. Tudo bem, apenas lembre-se de salvar assim que entrar no próximo andar!
+
+- __Dica 2:__ O Arcane Codex é muito bom para todo mundo, inclusive classes de auto attack já que permite a utilização de habilidades e buffs com bastante frequência. Algumas estratégias podem ser construidas em volta desse item:
+	- Saints podem utilizar a skill Faith Pray ininterruptamente se o Arcane Codex estiver level 5.
+	- Arcane Masters e Slayers também podem ficar dentro de suas White Barriers por tempo infinito com bastante facilidade.
+	- Lunares / Bardos e outras classes com dano AoE à distância também conseguem se combinarem o Arcane Codex com Magic Barrage manter uma distância bastante segura dos mobs ao darem dano continuo nos inimigos. Sendo inclusive uma estratégia bastante comum evitar salas de MVPs e fazer somente salas de mobs e tarot para essas classes.
+	- Até mesmo classes burst single dps como Saitamas, Soul Binders e Thanatos... conseguem utilizar muito bem esse item já que ele ajuda a ter uma rotação mais rápida de skills.
+
+- __Dica 3:__ Sempre tenha uma Osteoacusis Chip  e uma Soul Crystal na bag. São items muito baratos mas que em uma situação de emergência podem salvar a equipe toda.
 
 ## Links relevantes:
 - [Mallinox Guide : Echoing Corridor (Global, 2.0)](https://docs.google.com/document/d/1HT36Tv2odII2MbrtAYYFW0CY7G-I7pKJmbMZGyOmTyw/edit#heading=h.f1mfx5swxgc6)
 - [InDepthGuide : Echoing Corridor Guide](https://sites.google.com/view/romindepthguide/instances/echoing-corridor?authuser=0)
 
 #Semanais #Instancias #InstanciaSemanal #EchoingCorridor #Corredor #PVE
+ 

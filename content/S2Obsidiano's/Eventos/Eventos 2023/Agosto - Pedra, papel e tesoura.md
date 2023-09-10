@@ -22,13 +22,13 @@ Cada pacote contém:
 ![[Pasted image 20230830195657.png]] x5  Fortune Coins![[Pasted image 20230830195853.png]]x30 Big Cat Voucher I
 ![[Pasted image 20230830195906.png]]x 30 Big Cat Voucher Feast
 
-   _1º Lugar:_ 10 pacotes
-   _2º Lugar:_ 6 pacotes
-   _3º Lugar:_ 4 pacotes
-   _Participantes:_ 10 pacotes serão distribuídos aleatoriamente entre os participantes.
+-  _1º Lugar:_ 10 pacotes
+-  _2º Lugar:_ 6 pacotes
+-  _3º Lugar:_ 4 pacotes
+-  _Participantes:_ 10 pacotes serão distribuídos aleatoriamente entre os participantes.
 
-___Decisões da Organização:__
-A decisão da liderança da guilda é definiadasdativa em todos os aspectosnterpretação de regras e disputas.Aproveite o campeonato e divirta-se com a guilda!
+__Decisões da Organização:__
+A decisão da liderança da guilda é definitiva em todos os aspectos e interpretação de regras e disputas. Aproveite o campeonato e divirta-se com a guilda!
 
 __Data:__ 27 de Agosto de 2023
 __Hora:__ 21h
@@ -42,9 +42,9 @@ __Host:__ PamNawi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pt3IchNUrGU?si=7ZG_U63YzNhUMENZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Vencedores:
-1º Lugar : Deci
-2º Lugar : Mirajane
-3º Lugar : Turmalina_Rosa
+- 1º Lugar : Deci
+- 2º Lugar : Mirajane
+- 3º Lugar : Turmalina_Rosa
 
 
 

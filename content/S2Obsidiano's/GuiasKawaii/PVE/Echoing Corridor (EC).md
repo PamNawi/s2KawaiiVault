@@ -134,25 +134,30 @@ Pense no quanto/como ele pode oferecer :
 
 Após entender como o seu personagem pode performar dentro dessa instância fica mais fácil desenvolver uma estratégia. O Corredor é uma instância curiosa já que permite diversas estratégias muito diferentes, mas irei abordar algumas dicas e estratégias comuns para faze-la com facilidade.
 
-- __Dica 1:__ Procure o mais rápido possível uma das seguintes salas dependendo de quão confortável está sua navegação entre as salas: 
+- __Dica 1:__ 
+Procure o mais rápido possível uma das seguintes salas dependendo de quão confortável está sua navegação entre as salas: 
 	- Secret Shop se você prefere comprar os itens para fazer a instância, mas pode ficar sem mapa para aberto no inicio ou no fim.
 	- Tarot se você não precisa dos items, mas quer garantir o famoso mapa eterno. Essa estratégia é comum com jogadores mais experientes.
-
 É possível também que você não encontre nenhuma das duas salas e simplesmente passe para o próximo andar. Tudo bem, apenas lembre-se de salvar assim que entrar no próximo andar!
-<br>
-- __Dica 2:__ O Arcane Codex é muito bom para todo mundo, inclusive classes de auto attack já que permite a utilização de habilidades e buffs com bastante frequência. Algumas estratégias podem ser construidas em volta desse item:
+
+- __Dica 2:__ 
+O Arcane Codex é muito bom para todo mundo, inclusive classes de auto attack já que permite a utilização de habilidades e buffs com bastante frequência. Algumas estratégias podem ser construidas em volta desse item:
 	- Saints podem utilizar a skill Faith Pray ininterruptamente se o Arcane Codex estiver level 5.
 	- Arcane Masters e Slayers também podem ficar dentro de suas White Barriers por tempo infinito com bastante facilidade.
 	- Lunares / Bardos e outras classes com dano AoE à distância também conseguem se combinarem o Arcane Codex com Magic Barrage manter uma distância bastante segura dos mobs ao darem dano continuo nos inimigos. Sendo inclusive uma estratégia bastante comum evitar salas de MVPs e fazer somente salas de mobs e tarot para essas classes.
 	- Até mesmo classes burst single dps como Saitamas, Soul Binders e Thanatos... conseguem utilizar muito bem esse item já que ele ajuda a ter uma rotação mais rápida de skills.
-<br>
-- __Dica 3:__ Sempre tenha uma Osteoacusis Chip  e uma Soul Crystal na bag. São items muito baratos mas que em uma situação de emergência podem salvar a equipe toda.
-<br>
-- __Dica 4:__ Observe a composição do dano de sua equipe, dependendo de qual for é melhor fazer salas de MVPs, onde o dano será concentrado em um inimigo único ou em salas de mobs com diversos mobs seguida de uma sala de Tarot. Alguns andares com inimigos com modificadores como Arcane, Stare, Hidden as vezes compensa fazer salas de MVP ao invés das salas de mob + Tarot já que a probabilidade desses modificadores estarem presentes nos inimigos comuns dessas salas é menor.
-<br>
-- __Dica 5:__ Um dos possíveis debuffs do tarot é : "Uma chave é dada, mas você perderá 3 items". Essa carta é muito interessante no inicio do corredor, quando você tem poucos items ou se você ainda não passou na Secret Shop. Nesse caso, se você não tem items, você não tem o que perder.
-<br>
-- __Dica 6:__ Os mobs e os MVPs do 60 - 70 estão com níveis de elementais acima de 1, ou seja, eles estão bastante duros e a perda de HP está bem lenta. Se organize pensando nisso e na durabilidade de sua equipe, pois você poderá ter que passar mais tempo que o esperado dentro desses andares.
+
+- __Dica 3:__ 
+Sempre tenha uma Osteoacusis Chip  e uma Soul Crystal na bag. São items muito baratos mas que em uma situação de emergência podem salvar a equipe toda.
+
+- __Dica 4:__ 
+Observe a composição do dano de sua equipe, dependendo de qual for é melhor fazer salas de MVPs, onde o dano será concentrado em um inimigo único ou em salas de mobs com diversos mobs seguida de uma sala de Tarot. Alguns andares com inimigos com modificadores como Arcane, Stare, Hidden as vezes compensa fazer salas de MVP ao invés das salas de mob + Tarot já que a probabilidade desses modificadores estarem presentes nos inimigos comuns dessas salas é menor.
+
+- __Dica 5:__
+Um dos possíveis debuffs do tarot é : "Uma chave é dada, mas você perderá 3 items". Essa carta é muito interessante no inicio do corredor, quando você tem poucos items ou se você ainda não passou na Secret Shop. Nesse caso, se você não tem items, você não tem o que perder.
+
+- __Dica 6:__ 
+Os mobs e os MVPs do 60 - 70 estão com níveis de elementais acima de 1, ou seja, eles estão bastante duros e a perda de HP está bem lenta. Se organize pensando nisso e na durabilidade de sua equipe, pois você poderá ter que passar mais tempo que o esperado dentro desses andares.
 ## Links relevantes:
 - [Mallinox Guide : Echoing Corridor (Global, 2.0)](https://docs.google.com/document/d/1HT36Tv2odII2MbrtAYYFW0CY7G-I7pKJmbMZGyOmTyw/edit#heading=h.f1mfx5swxgc6)
 - [InDepthGuide : Echoing Corridor Guide](https://sites.google.com/view/romindepthguide/instances/echoing-corridor?authuser=0)

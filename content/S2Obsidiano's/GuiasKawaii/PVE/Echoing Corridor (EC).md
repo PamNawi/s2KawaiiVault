@@ -92,7 +92,7 @@ Cada sala de mob contém um grupo de inimigos que contém os seguinte modificado
 
 ## Itens
 Os jogadores não podem utilizar itens de sua bolsas individuais, entretanto, o corredor fornece itens para serem comprados no Secret Shop ou quando os jogadores vencem salas também existe uma probabilidade um item.  À seguir seguem os itens mais relevantes:
-#### __-> Consumíveis:__
+####    __-> Consumíveis:__
 
 ![[Pasted image 20230909235944.png]]
 __Holy Bottle (Recarga na sala do Descanso em todos os andares):__ Recupera 30% do HP e 30% do SP imediatamente. Pode ser recarregado na fonte presente no centro da sala de descanso de todos os andares uma vez por andar.
@@ -108,7 +108,7 @@ __Soul Crystal (25 moedas):__ Revive um aliado caído e é automaticamente consu
 
 ![[Pasted image 20230910000100.png]] 
 __Sublimation - Valkyrie (300 moedas):__ Transforma o utilizador na Valkyria por 20 segundos que utiliza um ataque tem seu dano aumentado sucessivamente que dá um dano massivo. Muito utilizada para acelerar ou ainda matar MVPs dificeis.
-#### __-> Fixos:__
+####    __-> Fixos:__
 
 ![[Pasted image 20230910000117.png]]
 __Arcane Codex (200 moedas):__ Reduz o skill delay e o delay em 10% para cada adicional aumenta em outros 10% chegando ao máximo de 50% no level 5. É um ótimo investimento e possibilita estratégias que não seriam possíveis fora do corredor como White Barrier ou ainda Faith Pray infinito.
@@ -148,6 +148,11 @@ Após entender como o seu personagem pode performar dentro dessa instância fica
 
 - __Dica 3:__ Sempre tenha uma Osteoacusis Chip  e uma Soul Crystal na bag. São items muito baratos mas que em uma situação de emergência podem salvar a equipe toda.
 
+- __Dica 4:__ Observe a composição do dano de sua equipe, dependendo de qual for é melhor fazer salas de MVPs, onde o dano será concentrado em um inimigo único ou em salas de mobs com diversos mobs seguida de uma sala de Tarot. Alguns andares com inimigos com modificadores como Arcane, Stare, Hidden as vezes compensa fazer salas de MVP ao invés das salas de mob + Tarot já que a probabilidade desses modificadores estarem presentes nos inimigos comuns dessas salas é menor.
+
+- __Dica 5:__ Um dos possíveis debuffs do tarot é : "Uma chave é dada, mas você perderá 3 items". Essa carta é muito interessante no inicio do corredor, quando você tem poucos items ou se você ainda não passou na Secret Shop. Nesse caso, se você não tem items, você não tem o que perder.
+
+- __Dica 6:__ Os mobs e os MVPs do 60 - 70 estão com níveis de elementais acima de 1, ou seja, eles estão bastante duros e a perda de HP está bem lenta. Se organize pensando nisso e na durabilidade de sua equipe, pois você poderá ter que passar mais tempo que o esperado dentro desses andares.
 ## Links relevantes:
 - [Mallinox Guide : Echoing Corridor (Global, 2.0)](https://docs.google.com/document/d/1HT36Tv2odII2MbrtAYYFW0CY7G-I7pKJmbMZGyOmTyw/edit#heading=h.f1mfx5swxgc6)
 - [InDepthGuide : Echoing Corridor Guide](https://sites.google.com/view/romindepthguide/instances/echoing-corridor?authuser=0)

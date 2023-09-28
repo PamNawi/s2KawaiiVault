@@ -157,7 +157,7 @@ Observe a composição do dano de sua equipe, dependendo de qual for é melhor f
 Um dos possíveis debuffs do tarot é : "Uma chave é dada, mas você perderá 3 items". Essa carta é muito interessante no inicio do corredor, quando você tem poucos items ou se você ainda não passou na Secret Shop. Nesse caso, se você não tem items, você não tem o que perder.
 
 - __Dica 6:__ 
-Os mobs e os MVPs do 60 - 70 estão com níveis de elementais acima de 1, ou seja, eles estão bastante duros e a perda de HP está bem lenta. Se organize pensando nisso e na durabilidade de sua equipe, pois você poderá ter que passar mais tempo que o esperado dentro desses andares.
+Os mobs e os MVPs do 60 - 70 estão com níveis de elementais acima de 1, ou seja, eles estão bastante duros e a perda de HP está bem lenta. Se organize pensando nisso e na durabilidade de sua equipe, pois você poderá ter que passar mais tempo que o esperado dentro desses andares. Para saber mais sobre construção de dano visite [[Construção de Dano em Instâncias]].
 ## Links relevantes:
 - [Mallinox Guide : Echoing Corridor (Global, 2.0)](https://docs.google.com/document/d/1HT36Tv2odII2MbrtAYYFW0CY7G-I7pKJmbMZGyOmTyw/edit#heading=h.f1mfx5swxgc6)
 - [InDepthGuide : Echoing Corridor Guide](https://sites.google.com/view/romindepthguide/instances/echoing-corridor?authuser=0)

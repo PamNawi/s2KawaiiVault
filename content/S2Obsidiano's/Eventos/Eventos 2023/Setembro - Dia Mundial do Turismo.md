@@ -32,10 +32,25 @@ Cada pacote contém:
 ! Esperando a gravação
 
 ### Vencedores:
-1ª Rodada : 
-2ª Rodada : 
-3ª Rodada : 
-4ª Rodada: 
+1ª Rodada : Shurrasquinho
+2ª Rodada : Shurrasquinho
+3ª Rodada : Safira_Czel
+4ª Rodada : RomeroBritto
+5ª Rodada : Shurrasquinho
+
+1- Yukan
+2- LadyChristine
+3- Yukan
+4- Safira
+5- Jonnes
+6- LadyChristine
+7- LadyChristine
+8- Jonnes
+9- Shurrasquinho
+10- Deci -> RomeroBritto
+
+
+![[Pasted image 20230917213901.png]]
 
 
 

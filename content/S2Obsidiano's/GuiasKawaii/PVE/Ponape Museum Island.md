@@ -18,6 +18,12 @@ Na modalidade Warrior os jogadores receberam armaduras e off-hands com bônus al
 ![[Pasted image 20230917003844.png]]
 ## Descrição Geral da Instância
 
+Essa instância é divida em 3 andares com MVPs e 2 andares com inimigos comuns. Para deixar o conteúdo desse tutorial mais palatável, irei dividir a explicação em sub-notas, específicas com cada um dos andares de mvp. Os andares com inimigos tem mecânicas bastante simples e de fácil entendimento, portanto não irei aborda-los em maiores detalhes. É recomendada a leitura do guia de [[Construção de Dano em Instâncias]] para quem pretende fazer na dificuldade Epic Spirit já que a construção de dano nessas instâncias é bastante curiosa. 
+
+- [[Ponape Museum Island 1F]]
+- [[Ponape Museum Island 2F]]
+- [[Ponape Museum Island 3F]]
+
 
 
 ## Links relevantes:

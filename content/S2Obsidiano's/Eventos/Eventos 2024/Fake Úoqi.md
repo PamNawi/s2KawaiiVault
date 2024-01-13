@@ -1,11 +1,18 @@
+---
+dg-publish: true
+---
 Já que a WoE e a WoC PIPOCARAM. Estamos lançando nosso próprio torneio interno da s2Kawaii!
 
 Já pensou naqueles 5 minutinhos de soco com o amiguinho sem perder amizade?
 E que tal aquele treininho de ataque contra defesa para zoar o coleguinha do time oposto?
-Se você está sem acesso ao joguinho, FAÇA UMA PIPOCA E VENHA VER O TORNEIO FAKE ÚOQI no discord da s2Kawaii no horário da tradicional WoC!
+Se você está sem acesso ao joguinho, FAÇA UMA PIPOCA E VENHA VER O TORNEIO FAKE ÚOQI no discord da s2Kawaii no lugar da WoC!
 Já que os Chinês não liberou WoC, a Kawaii faz a própria! Afinal nunca foi prometido guerra aqui, apenas entretenimento!
 
 Pensando no ódio acumulado que vocês ficaram na quinta que nós trouxemos ela! A única e exclusiva criação da s2Kawaii: BEM VINDO ÀS FAKE ÚOQI!
+
+Local: Discord s2Kawaii
+Data: 14/01/2024
+Hora: 21h
 
 <h1>Regras:</h1>
 
@@ -46,3 +53,5 @@ Pensando no ódio acumulado que vocês ficaram na quinta que nós trouxemos ela!
 	- Tempo limite da Wolf Arena, vitória para o time de defesa
 	- Se qualquer uma das duas equipes conseguir obter 30 mortes, está será declarada como vencedora.
 	- Se o ponto C for conquistado pela equipe atacante, vitória do time atacante
+
+#Eventos #EventoGuilda #Torneio

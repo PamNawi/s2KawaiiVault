@@ -1,3 +1,4 @@
+
 Num belo dia em Rune Midgard, Obsidiano, decidiu explorar as maravilhas do mundo virtual com sua câmera em mãos. Empolgado com a perspectiva de capturar momentos memoráveis, ele se aventurou por diversas paisagens pitorescas e locais pitorescos. No entanto, apesar de sua empolgação, Obsidiano tinha um pequeno problema: ele simplesmente não conseguia tirar uma foto decente! Cada clique resultava em imagens desfocadas, ângulos estranhos e composições incoerentes. Ele estava triste por não ter conseguido registrar nenhuma de suas viagens de forma satisfatória. Ajude o Obsidiano tirando fotos ao longo do continente para que ele possa fazer um registro pelos locais por onde ele passou.
 
 # Regras

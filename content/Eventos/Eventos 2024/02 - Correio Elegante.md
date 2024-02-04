@@ -1,7 +1,6 @@
 ---
 dg-publish: true
 ---
-
 Perdeu a oportunidade de se declarar para o seu crush? Não se preocupe, a s2Kawaii está aqui para te ajudar a conquistar o coração da pessoa amada! Durante todo o mês de São Valentim (o Dia dos Namorados gringo), você pode enviar sua mensagem especial para @Obsidiano, @Shavin, @Deci, @Shurasquinho, junto com o @ da pessoa amada, e nós cuidaremos do resto.
 
 Ao participar, tanto quem envia a mensagem quanto quem a recebe terá a chance de ganhar tickets! Estaremos sorteando 30 códigos com premiações:

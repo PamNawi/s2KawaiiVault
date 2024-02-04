@@ -1,4 +1,4 @@
-Esse é o primeiro andar com Boss da instância [[Ponape Museum Island]].
+Esse é o primeiro andar com Boss da instância [[Introdução - Ponape Museum Island]].
 
 ## Links relevantes:
 

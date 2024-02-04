@@ -1,0 +1,1 @@
+Esse é o terceiro e último andar com Boss da instância [[Introdução - Ponape Museum Island]].

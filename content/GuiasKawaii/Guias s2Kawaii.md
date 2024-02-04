@@ -6,7 +6,7 @@ A s2Kawaii sempre gerou muitos guias de instâncias ao longo de sua história. S
 # Instâncias Semanais (PVE)
 - [[Echoing Corridor (EC)]]
 - [[Thanatos Tower]]
-- [[Ponape Museum Island]]
+- [[Introdução - Ponape Museum Island]]
 
 # Instâncias Semanais (PVP)
 - [[War of Emperium 2.0]]

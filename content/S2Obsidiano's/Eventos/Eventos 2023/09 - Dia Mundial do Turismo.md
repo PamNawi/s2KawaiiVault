@@ -30,7 +30,7 @@ Cada pacote contém:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pEo9ue2YlVM?si=yGDb3zuPlisKR5Gq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Postagem do Evento
-! Esperando a gravação
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M1TIUxah0vY?si=cRZ1Rn17a65Y31h6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Vencedores:
 1ª Rodada : Shurrasquinho

@@ -54,4 +54,7 @@ Hora: 21h
 	- Se qualquer uma das duas equipes conseguir obter 30 mortes, está será declarada como vencedora.
 	- Se o ponto C for conquistado pela equipe atacante, vitória do time atacante
 
-#Eventos #EventoGuilda #Torneio
+# Postagem do Evento
+! Esperando a gravação
+
+#Eventos #EventoGuilda #Torneio #PopCorn #Pipoca

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Esses foram os eventos que foram feitos pela guilda:
 
 # 2024

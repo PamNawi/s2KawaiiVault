@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 Criamos esse grupo com o intuito de participar do evento de divulgação do episódio Tears of Tyrant. O evento original já teve seu formulário de inscrição fechado. 
 Se você enviou um ou mais vídeos, aguarde até  dia 20/01/2024 para saber se seu vídeo foi aceito pelos devs!
 

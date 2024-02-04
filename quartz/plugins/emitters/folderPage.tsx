@@ -12,12 +12,14 @@ import {
   SimpleSlug,
   _stripSlashes,
   joinSegments,
+  pathToRoot,
   simplifySlug,
 } from "../../util/path"
 import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.layout"
 import { FolderContent } from "../../components"
+import { write } from "./helpers"
 
-export const FolderPage: QuartzEmitterPlugin<FullPageLayout> = (userOpts) => {
+export const FolderPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOpts) => {
   const opts: FullPageLayout = {
     ...sharedPageComponents,
     ...defaultListPageLayout,
@@ -34,7 +36,7 @@ export const FolderPage: QuartzEmitterPlugin<FullPageLayout> = (userOpts) => {
     getQuartzComponents() {
       return [Head, Header, Body, ...header, ...beforeBody, pageBody, ...left, ...right, Footer]
     },
-    async emit(ctx, content, resources, emit): Promise<FilePath[]> {
+    async emit(ctx, content, resources): Promise<FilePath[]> {
       const fps: FilePath[] = []
       const allFiles = content.map((c) => c[1].data)
       const cfg = ctx.cfg.configuration
@@ -69,7 +71,7 @@ export const FolderPage: QuartzEmitterPlugin<FullPageLayout> = (userOpts) => {
 
       for (const folder of folders) {
         const slug = joinSegments(folder, "index") as FullSlug
-        const externalResources = pageResources(slug, resources)
+        const externalResources = pageResources(pathToRoot(slug), resources)
         const [tree, file] = folderDescriptions[folder]
         const componentData: QuartzComponentProps = {
           fileData: file.data,
@@ -81,7 +83,8 @@ export const FolderPage: QuartzEmitterPlugin<FullPageLayout> = (userOpts) => {
         }
 
         const content = renderPage(slug, componentData, opts, externalResources)
-        const fp = await emit({
+        const fp = await write({
+          ctx,
           content,
           slug,
           ext: ".html",

@@ -1,0 +1,1 @@
+Esse é o segundo com Boss da instância [[Introdução - Ponape Museum Island]].

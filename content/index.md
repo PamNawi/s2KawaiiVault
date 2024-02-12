@@ -2,7 +2,6 @@
 title: s2KawaiiDesu-Home
 ---
 
-![[kawaiiLogo.png]]
 ## Bem vindo à s2KawaiDesu
 
 Este é um site com todo o conteúdo gerado pela guilda s2Kawaii do jogo [Ragnarok Mobile : Eternal Love](https://na.ragnaroketernallove.com). É muito comum que nossos membros gerem guias em formato de texto, imagens ou ainda vídeos para aprender e ensinar outros membros. Recomendo começar pelos [[Links uteis]], [[Guias s2Kawaii]] ou ainda nossa [[Lista de Eventos]].

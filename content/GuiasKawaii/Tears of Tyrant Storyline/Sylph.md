@@ -1,4 +1,4 @@
-1. 1. Open the Chest and find the nearby glowing sphere, click "Interact" (to unlock the achievement).
+1. Open the Chest and find the nearby glowing sphere, click "Interact" (to unlock the achievement).
 2. Take a Picture of the sticker on the south side of the bridge.
 3. Perform the action "Bow" on the tree stump.
 4. Move the Stone portrait to the designated spot.

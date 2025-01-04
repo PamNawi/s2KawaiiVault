@@ -8,9 +8,10 @@ Segue uma lista de links que serão muito úteis ao longo de sua jornada 🗺️
 - [InDepthGuide:](https://sites.google.com/view/romindepthguide/) Um guia bem longo e profundo de todo o jogo até as atualizações recentes . Recomendo demais a leitura, inclusive para veteranos.
 
 ## Canais no Youtube/Facebook
-- [Deci Plays:](https://www.youtube.com/@deciplays8476) Canal do nosso vice líder Deci 💖.
+- [Deci Plays:](https://www.youtube.com/@deciplays8476) Canal de um de nossos vices líderes.
+- [Jony GamingRo:](https://www.youtube.com/@SraJonyE) Canal de outro vice líder.
+- [MarcVinicius:](https://www.youtube.com/@Marc-Vinicius) Canal de um membro de nossa guilda
 - [Miss Maven:](https://www.youtube.com/channel/UCAKx0NcliXnyV6-6CxJba6A) Um ótimo canal com guias bastante simplificados e compreensíveis para jogadores. Também é bastante útil para acompanhar os eventos do mês.
-- [Blueberries:](https://www.youtube.com/channel/UCRqXK7VJr9-S0mYNVTbs_kw)  Preparação para os próximos episódios, comparação de builds e updates diários.
 - [RomSo:](https://www.youtube.com/c/RomSo/videos) Ótimo canal para acompanhar o que vem nos próximos episódios e testes do cbt!
 - [IdleHands:](https://www.youtube.com/@Idlehands21) Quer entender a matemática da coisa e como os códigos funcionam por baixo dos panos? Comece por aqui.
 
